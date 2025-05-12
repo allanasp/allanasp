@@ -2,7 +2,7 @@
 
 ## 👋 Hi, I'm @allanasp
 
-Technical Producer and Senior Frontend Developer with a passion for creating well-structured, user-friendly applications. I bridge the gap between technical development, creative vision, and operational execution—keeping workflows streamlined and teams aligned.
+Technical Producer and Senior Frontend Developer with a passion for creating well-structured, user-friendly applications. With a background in sound design and game development, I bridge the gap between technical development, creative vision, and operational execution—keeping workflows streamlined and teams aligned.
 
 *"Definitely not a bunch of JavaScript modules in a monorepo – Dad, Vue & Nuxt Enthusiast, React Native Rookie, Open Source Fanboy, Growth Hacker, and Code Poet with a passion for UX... and a sound design nerd with a music background."*
 
@@ -12,7 +12,9 @@ Technical Producer and Senior Frontend Developer with a passion for creating wel
 - Agile methodologies and workflow optimization
 - Design systems (Atomic Design & Storybook)
 - UX and user-centered design
-- Performance-driven development and SEO
+- Performance-driven development
+- Digital sovereignty and DIY solutions
+- Privacy-focused technology
 
 ## 🌱 I'm currently learning
 - React Native with Expo
@@ -28,20 +30,21 @@ Technical Producer and Senior Frontend Developer with a passion for creating wel
 - **CMS**: Storyblok for content management
 - **Tools**: VSCode, iTerm2, Yarn, Git, GitHub Actions
 - **Testing**: Book of Geb, Cypress, BDD
-- **Analytics**: Google Tag Manager, GA4, Matomo
 - **Process**: Agile (Scrum/Kanban), ClickUp for task management
+- **Privacy**: Self-hosted solutions, privacy-respecting technologies
 
 ## 💞️ I'm looking to collaborate on
 - Open source Vue/Nuxt projects
+- Self-hosted and privacy-respecting applications
 - Design systems for complex applications
 - Audio/music production tools and applications
 - Interactive experiences and game development
+- DIY solutions that promote digital sovereignty
 - Projects that combine code and creative expression
 
 ## 📫 How to reach me
 - [LinkedIn](https://www.linkedin.com/in/allanaspchristensen/)
 - [Email](mailto:mail@allanasp.dk)
-- Phone: +45 2077 8329
 
 ## 🎵 Beyond Code
 - Co-founder of KlangHaus, a creative hub with 10 professional sound studios
@@ -50,10 +53,11 @@ Technical Producer and Senior Frontend Developer with a passion for creating wel
 - Guitarist and founder of the band Waking Life
 
 ## ⚡ Fun facts
-- I dislike Tailwind CSS with a passion
-- I'm a former musician and co-founder of the band Waking Life
-- I'm formally educated as a sound designer and game designer
+- I dislike Tailwind CSS and Bootstrap with a passion
 - I advocate for proper HTML semantics and accessibility
+- I'm a strong proponent of digital sovereignty and privacy
+- I prefer DIY solutions over proprietary software whenever possible
+- I avoid tracking technologies
 - I'm a proud nerd who enjoys writing comprehensive technical strategies and documentation
 - I bring a unique blend of creative background and technical expertise to my projects
 

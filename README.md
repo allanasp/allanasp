@@ -44,7 +44,6 @@ Technical Producer and Senior Frontend Developer with a passion for creating wel
 
 ## 📫 How to reach me
 - [LinkedIn](https://www.linkedin.com/in/allanaspchristensen/)
-- [Email](mailto:mail@allanasp.dk)
 
 ## 🎵 Beyond Code
 - Co-founder of KlangHaus, a creative hub with 10 professional sound studios
@@ -58,10 +57,3 @@ Technical Producer and Senior Frontend Developer with a passion for creating wel
 - I'm a strong proponent of digital sovereignty and privacy
 - I prefer DIY solutions over proprietary software whenever possible
 - I avoid tracking technologies
-- I'm a proud nerd who enjoys writing comprehensive technical strategies and documentation
-- I bring a unique blend of creative background and technical expertise to my projects
-
-<!---
-allanasp/allanasp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->

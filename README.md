@@ -1,12 +1,12 @@
 # Allan Asp Christensen
 
-## 👋 Hi, I'm @allanasp
+## Well Hallo, I'm @allanasp
 
-Technical Producer and Senior Frontend Developer with a passion for creating well-structured, user-friendly applications. With a background in sound design and game development, I bridge the gap between technical development, creative vision, and operational execution—keeping workflows streamlined and teams aligned.
+ Senior Frontend Developer with a passion for creating well-structured, user-friendly applications. With a background in sound design and game development, I bridge the gap between technical development, creative vision, and operational execution—keeping workflows streamlined and teams aligned.
 
 *"Definitely not a bunch of JavaScript modules in a monorepo – Dad, Vue & Nuxt Enthusiast, React Native Rookie, Open Source Fanboy, Growth Hacker, and Code Poet with a passion for UX... and a sound design nerd with a music background."*
 
-## 👀 I'm interested in
+## I'm interested in
 - Frontend architecture with Vue 3/Nuxt 3 
 - App-first strategies and mobile development
 - Agile methodologies and workflow optimization
@@ -16,7 +16,7 @@ Technical Producer and Senior Frontend Developer with a passion for creating wel
 - Digital sovereignty and DIY solutions
 - Privacy-focused technology
 
-## 🌱 I'm currently learning
+## I'm currently learning
 - React Native with Expo
 - Behavior-Driven Development (BDD)
 - Advanced CI/CD pipelines and DevOps
@@ -24,7 +24,7 @@ Technical Producer and Senior Frontend Developer with a passion for creating wel
 - Technical leadership and team facilitation
 - Orchestrating technical workflows in cross-functional teams
 
-## 💼 My tech stack
+## My tech stack
 - **Frontend**: Vue.js, Nuxt.js, TypeScript, Composition API, SSR
 - **Mobile**: React Native, Expo, Xcode, Android development
 - **CMS**: Storyblok for content management
@@ -33,7 +33,7 @@ Technical Producer and Senior Frontend Developer with a passion for creating wel
 - **Process**: Agile (Scrum/Kanban), ClickUp for task management
 - **Privacy**: Self-hosted solutions, privacy-respecting technologies
 
-## 💞️ I'm looking to collaborate on
+## I'm looking to collaborate on
 - Open source Vue/Nuxt projects
 - Self-hosted and privacy-respecting applications
 - Design systems for complex applications
@@ -42,16 +42,16 @@ Technical Producer and Senior Frontend Developer with a passion for creating wel
 - DIY solutions that promote digital sovereignty
 - Projects that combine code and creative expression
 
-## 📫 How to reach me
+## How to reach me
 - [LinkedIn](https://www.linkedin.com/in/allanaspchristensen/)
 
-## 🎵 Beyond Code
+## Beyond Code
 - Co-founder of KlangHaus, a creative hub with 10 professional sound studios
 - Background in audio engineering and music production
 - Experience in game/UX design for VR applications
 - Guitarist and founder of the band Waking Life
 
-## ⚡ Fun facts
+## Fun facts
 - I dislike Tailwind CSS and Bootstrap with a passion
 - I advocate for proper HTML semantics and accessibility
 - I'm a strong proponent of digital sovereignty and privacy
